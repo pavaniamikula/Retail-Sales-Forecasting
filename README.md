@@ -107,19 +107,11 @@ Random Forest achieved the best overall performance and was selected as the fina
 
 ### Actual vs Predicted Sales
 
-(Add your saved image here)
-
-```
-outputs/actual_vs_predicted.png
-```
+![Actual vs Predicted](outputs/actual_vs_predicted.png)
 
 ### Feature Importance
 
-(Add your saved image here)
-
-```
-outputs/feature_importance.png
-```
+![Feature Importance](outputs/feature_importance.png)
 
 ---
 
