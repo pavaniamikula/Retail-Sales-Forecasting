@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+env/
+
+
+.DS_Store
+Thumbs.db
+
+model/random_forest_sales_model.pkl
