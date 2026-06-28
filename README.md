@@ -111,7 +111,7 @@ Random Forest achieved the best overall performance and was selected as the fina
 
 ### Feature Importance
 
-![Feature Importance](outputs/feature_importance.png)
+![Feature Importance](outputs/feature_importance.csv)
 
 ---
 
